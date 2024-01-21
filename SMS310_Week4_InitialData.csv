@@ -1,0 +1,6 @@
+Date_of_Sale (YYYY-MM-DD),Product_Name_Identifier,Quantity_of_Product (Units),Unit Price (in USD)
+2023-01-01,Widget A,3,20.00
+2023-01-02,Widget B,5,30.00
+2023-01-03,Widget A,2,20.00
+2023-01-04,Widget C,4,40.00
+2023-01-05,Widget B,3,30.00
